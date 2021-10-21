@@ -21,7 +21,7 @@ C {devices/lab_wire.sym} 120 -180 0 1 {name=l2 sig_type=std_logic lab=in}
 C {devices/lab_wire.sym} 390 -180 0 1 {name=l3 sig_type=std_logic lab=out}
 C {devices/lab_wire.sym} 0 -340 0 1 {name=l4 sig_type=std_logic lab=vdd}
 C {devices/code_shown.sym} 550 -210 0 0 {name=sim only_toplevel=false value="
-.tran 10n 10u
+.tran 10n 20u
 "}
 C {devices/code_shown.sym} 550 -310 0 0 {name=models 
 only_toplevel=false 
